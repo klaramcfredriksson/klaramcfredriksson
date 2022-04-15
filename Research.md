@@ -4,9 +4,9 @@ title: ""
 ---
 
 
-### Bio
+### Research
 
-Hello! I am a PhD candidate in the Department of Government at The University of Texas at Austin.
+My research agenda is focused on the carceral state and its behavioral consequences.
 
 
 ---
