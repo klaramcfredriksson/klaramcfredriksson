@@ -4,11 +4,6 @@ title: "Research"
 ---
 
 
-### Research
-
-My research agenda is focused on the carceral state and its behavioral consequences.
-
-
 #### Working Papers
 
 "A First Time for Everything: Voting as a Habit and the Demobilizing Effect of Carceral Contact", *Under review*
