@@ -4,4 +4,4 @@ title: About me
 subtitle: Klara MC Fredriksson
 ---
 
-I run, ski and do puzzles.
+I run and I ski.
