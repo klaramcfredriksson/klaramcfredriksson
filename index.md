@@ -10,6 +10,4 @@ Hello! I am a PhD candidate in the Department of Government at The University of
 
 I have been a Graduate Research Fellow with the [Irma Rangel Public Policy Institute](https://liberalarts.utexas.edu/ppi/) since 2020. I hold an MA in Government from University of Texas at Austin, and a BSc in Political Science, Economics and Statistics from Lund University in Sweden.
 
-You can view my CV (updated April 2022) [here](assets/Fredriksson_cv_0422.pdf).
-
 ---
