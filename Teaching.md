@@ -12,6 +12,8 @@ title: ""
 
 American Government (2020-Present)
 
+Class playlists: [Fall 2021](https://open.spotify.com/playlist/1xaa1gmVmsWWJdgVrD9CDH?si=9c403c2be6f147fa), [Spring 2022](https://open.spotify.com/playlist/3fKSzgWlawofDDjiYHkgkc?si=e5f81f16708b45f6)
+
 #### Teaching Assistant
 
 The United States in Comparative Perspective (Spring 2020)
