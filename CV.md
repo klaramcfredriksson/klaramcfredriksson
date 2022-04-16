@@ -1,9 +1,9 @@
+{::options parse_block_html="true" /}
 ---
 layout: page
 title: ""
 ---
 
-{::options parse_block_html="true" /}
 
 You can view my CV (updated April 2022) [here](assets/Fredriksson_cv_0422.pdf).
 
