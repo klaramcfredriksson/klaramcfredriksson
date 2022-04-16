@@ -6,6 +6,8 @@ title: ""
 
 You can view my CV (updated April 2022) [here](assets/Fredriksson_cv_0422.pdf).
 
+{::options parse_block_html="true" /}
+
 <iframe src="/assets/Fredriksson_cv_0422.pdf"></iframe>
 
 ---
