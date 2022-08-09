@@ -7,7 +7,9 @@ title: ""
 
 #### Assistant Instructor
 
-American Government [Summer 2022 syllabus](assets/Syllabus_GOV310_summer22.pdf)
+American Government: [Summer 2022 syllabus](assets/Syllabus_GOV310_summer22.pdf)
+
+Public Opinion and Political Behavior: Fall 2022
 
 #### Lead Teaching Assistant
 
