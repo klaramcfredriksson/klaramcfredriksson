@@ -9,7 +9,7 @@ title: ""
 
 American Government: [Summer 2022 syllabus](assets/Syllabus_GOV310_summer22.pdf)
 
-Public Opinion and Political Behavior: Fall 2022
+Public Opinion, Political Behavior and Democracy: [Fall 2022](assets/Syllabus Fall22.pdf)
 
 #### Lead Teaching Assistant
 
