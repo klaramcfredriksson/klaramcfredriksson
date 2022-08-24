@@ -13,7 +13,7 @@ Public Opinion, Political Behavior and Democracy: [Fall 2022 syllabus](assets/Sy
 
 #### Lead Teaching Assistant
 
-American Government (2020-Present)
+American Government (Fall 2020-Spring 2022)
 
 Class playlists: [Fall 2021](https://open.spotify.com/playlist/1xaa1gmVmsWWJdgVrD9CDH?si=9c403c2be6f147fa), [Spring 2022](https://open.spotify.com/playlist/3fKSzgWlawofDDjiYHkgkc?si=e5f81f16708b45f6)
 
