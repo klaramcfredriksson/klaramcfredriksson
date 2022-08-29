@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-![DSC_1103](https://user-images.githubusercontent.com/103717903/187114353-2e9a101e-00a5-479a-9506-64a5700c3f09.JPG)
+![DSC_1103](https://user-images.githubusercontent.com/103717903/187114353-2e9a101e-00a5-479a-9506-64a5700c3f09.JPG){width=50%}
 
 
 ### Bio
