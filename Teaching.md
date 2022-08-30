@@ -5,7 +5,7 @@ title: ""
 
 ### Teaching
 
-#### Assistant Instructor
+#### Instructor
 
 American Government: [Summer 2022 syllabus](assets/Syllabus_GOV310_summer22.pdf)
 
