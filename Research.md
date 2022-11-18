@@ -5,7 +5,9 @@ title: ""
 
 My research centers on the role of the carceral state in American democracy. I ask questions around the political participation of justice-impacted people, and the socialization they experience at the hands of the system. I use quantitative methods including causal inference and survey research, and qualitative methods such as interviews and focus groups to study these issues.
 
-#### Dissertation: Citizens of the System: Criminal Justice Contact, Political Socialization and Citizenship
+#### Dissertation
+
+### Citizens of the System: Criminal Justice Contact, Political Socialization and Citizenship
 
 My dissertation examines the effect of frequent contact with the carceral state on political socialization. I advance a theory of parallel tracks of political socialization, positing that custodial citizens1 primarily receive their understanding of themselves as democratic subjects from their interactions with the carceral state. These interactions not only interfere with and impede traditional processes of political socialization and learning, but also constitute a socialization process of their own. Further, this socialization process has racial implications both through differential exposure and through differential effects. I call this *carceral socialization*.
 
