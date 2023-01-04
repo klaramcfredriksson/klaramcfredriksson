@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-You can view my CV (updated April 2022) [here](assets/CV_Fredriksson_0123.pdf).
+You can view my CV (updated January 2023) [here](assets/CV_Fredriksson_0123.pdf).
 
 
 
